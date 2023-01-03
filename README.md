@@ -24,7 +24,6 @@ I like to help people by coding.
 ![](https://img.shields.io/badge/Photo-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=32A7FF)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f89820)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=215732)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-C&nbsp;Sharp-informational?style=flat&logo=csharp&logoColor=white&color=1572B6)
