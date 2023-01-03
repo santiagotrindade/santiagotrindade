@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">a 21 years old Web Developer</h3>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/santiagotrindade)
+<br>
+
 I have 1+ years of experience in the industry.
 
 I like to help people by coding.
