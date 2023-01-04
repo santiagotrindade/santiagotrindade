@@ -11,7 +11,6 @@ I like to help people by coding.
 ## 🦉 Knowledge
 
 ![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Platform-Windows-informational?style=flat&logo=windows&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Platform-Linux-informational?style=flat&logo=linux&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=198BD3)
 ![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
